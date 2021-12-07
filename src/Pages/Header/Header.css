@@ -1,0 +1,17 @@
+.header .navbar {
+    width: 100%;
+}
+
+.header .link {
+    text-decoration: none !important;
+    color: red !important;
+    font-weight: bolder !important;
+}
+
+.header h2 {
+    color: red !important;
+}
+
+.btns {
+    border-radius: 5px;
+}

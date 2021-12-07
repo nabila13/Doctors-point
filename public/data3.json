@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "name": "Ambulance service",
+        "number": 1228344545,
+        "img": "./emer1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Diagnosis service",
+        "number": 1228344545,
+        "img": "./emer2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Intensive care unit Booking",
+        "number": 1228344545,
+        "img": "./emer3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Freezing Ambulance service",
+        "number": 1228344545,
+        "img": "./emer4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Doctor service",
+        "number": 1228344545,
+        "img": "./emer5.jpg"
+    }
+]

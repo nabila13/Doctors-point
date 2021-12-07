@@ -1,0 +1,91 @@
+[{
+        "id": 1,
+        "img": "./doctor1.jpg",
+        "name": "Dr. Alex Farguson",
+        "degree": "Cardiac Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 2,
+        "img": "./doctor2.jpg",
+        "name": "Dr. John Cenna",
+        "degree": "Medicine Expert",
+        "fee": 1000,
+        "description": "general medicine expert and meddicine specialist, mild to cronic medicine related concerns are handled efficiently with proper observation.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 3,
+        "img": "./doctor3.jpg",
+        "name": "Dr. Alicia Cara",
+        "degree": "Dentist",
+        "fee": 800,
+        "description": "general dental surgery specialist, oral infection expert, adults dental or oral sergery expert, and dental problems are handled effectively.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 4,
+        "img": "./doctor4.jpg",
+        "name": "Dr. Taylor Swift",
+        "degree": "Dermatoligical Specialist",
+        "fee": 1000,
+        "description": "general dermatology specialist, skin concerns expert, adults specific skin related problems expert, and surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 5,
+        "img": "./doctor5.jpg",
+        "name": "Dr. Marie Curie",
+        "degree": "expert Psychiatrist",
+        "fee": 1000,
+        "description": "general psychology specialist & expert, adults specific Mental concerns expert, and psychological problems specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 6,
+        "img": "./doctor6.jpg",
+        "name": "Dr. Maxim Gorkey",
+        "degree": "Cardiac Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 7,
+        "img": "./doctor7.jpg",
+        "name": "Dr. Alex Farguson",
+        "degree": "Cardiac Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 8,
+        "img": "./doctor1.jpg",
+        "name": "Dr. Alex Farguson",
+        "degree": "Cardiac Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 9,
+        "img": "./person1.jpeg",
+        "name": "Dr. Shaila Afroza",
+        "degree": "Gunae OBs Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    },
+    {
+        "id": 10,
+        "img": "./person2.jpeg",
+        "name": "Dr. Shila Mahfuz",
+        "degree": "Ovarian Gynae Specialist",
+        "fee": 1000,
+        "description": "general surgery specialist, heart and lung transplants expert, adults specific sergery expert, and congenital surgery specialist.",
+        "background": "MBBS(Dhaka Medical College), MD (Dhaka Medical College),Cardiothoracic Sergery Fellowship(ABTS)"
+    }
+]
